@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Przemek/Desktop/debian_pliki/dzial10/zadanie1/stack.c
+stack.h
+C:/Users/Przemek/Desktop/debian_pliki/dzial10/zadanie1/stack.h
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/Przemek/Desktop/debian_pliki/dzial10/zadanie1/stack.h
+
